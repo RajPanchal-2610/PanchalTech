@@ -37,6 +37,13 @@ export const metadata: Metadata = {
     description:
       "Engineering robust digital solutions, custom software, and innovative enterprise platforms like Gymatrix.",
   },
+  icons: {
+    icon: [
+      { url: "/official-pt-logo.png", type: "image/png" },
+    ],
+    shortcut: "/official-pt-logo.png",
+    apple: "/official-pt-logo.png",
+  },
 };
 
 export default function RootLayout({
